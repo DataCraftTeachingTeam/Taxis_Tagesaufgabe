@@ -7,3 +7,6 @@ def lade_taxis_datensatz():
 
     return sns.load_dataset("taxis")
 
+
+if __name__ == "__main__":
+    print_ast_name()
